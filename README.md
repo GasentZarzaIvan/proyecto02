@@ -17,6 +17,7 @@ El repositorio tiene la siguiente estructura:
 >
 >src
 >>insertPeliculas.js
+>>
 >>findPeliculas.js
 >
 >doc
