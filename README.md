@@ -1,5 +1,5 @@
 # proyecto02
-Este proyecto contine varios scripts para la base de datos MongoDB. Realizado por Iván Gasent Zarza.
+Este proyecto contine varios scripts para la base de datos MongoDB. Realizado por Iván Gasent Zarza de 1 DAM.
 
 ## Base de datos
 La base de datos contiene información sobre películas, cada documento tiene la siguiente estructura:
